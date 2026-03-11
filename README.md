@@ -56,7 +56,7 @@ Ongoing monitoring and quarterly audits
 
 
 📊 Real-World Scenario Walkthrough
-The unified workflow document contains a complete real-world example:
+
 DBA: "We need MySQL replication from 192.168.100.50 → 172.16.1.50:3306"
                             ↓
 User calls: POST /api/unified/firewall-policy/analyze/
